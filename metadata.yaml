@@ -1,11 +1,16 @@
 _repo: The-Phantom-Rider-or-The-Giant-Chief-s-Fate-Beadle-s-Pocket-Novels-No-70_66193
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66193-h/images/cover.jpg
 creator:
   author:
     agent_name: Rolfe, Maro O.
     gutenberg_agent_id: '53677'
     url: http://www.gutenberg.org/2009/agents/53677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66193#The-Phantom-Rider-or-The-Giant-Chief-s-Fate-Beadle-s-Pocket-Novels-No-70
 gutenberg_issued: '2021-09-01'
 identifiers:
   gutenberg: '66193'
